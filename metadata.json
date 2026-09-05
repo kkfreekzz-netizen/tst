@@ -1,0 +1,6 @@
+{
+  "name": "ENZONE GROUP",
+  "description": "Official business platform for ENZONE GROUP: Manufacturing, direct selling, distribution, and export based in Kozhikode, Kerala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
